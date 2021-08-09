@@ -1,12 +1,18 @@
 <h1 align="center">Workload Migration</h1> 
 
-### Workload Migration from AWS (Lock In) to Open Technology based IBM Cloud (No Lock-in) :
+### Workload Migration from AWS (Lock In) to Open Technology based IBM Cloud (No Lock-in) :  
+<p>&nbsp;</p>  
 
-![Logo](_images/migration-1.PNG)
+![Migration](_images/migration-1.jpg)
+
+<p>&nbsp;</p> 
 
 ### Step by Step Guide for Migration:
+<p>&nbsp;</p> 
 
-![Logo](_images/migration-2.PNG)
+![Migration](_images/migration-2.jpg)  
+
+ 
 
 <h1 align="center">Mariadb Operator</h1> 
 

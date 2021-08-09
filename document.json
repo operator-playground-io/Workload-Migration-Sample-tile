@@ -1,7 +1,7 @@
 {
   "name": "Workload Migration Sample",
   "description": "Workload Migration Sample",
-  "logo": "_images/mariadb-logo-3.png",
+  "logo": "_images/migration-logo.png",
   "has_supporting_content": true,
   "stack_id": "workload-migration-sample",
   "type": "stack",
