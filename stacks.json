@@ -1,0 +1,23 @@
+{
+  "name": "Workload Migration Sample",
+  "description": "Workload Migration Sample",
+  "logo": "_images/mariadb-logo-3.png",
+   "enabled": true,
+   "category_label": [
+     "Operators"
+   ],
+   "document": "data-logging-stack",
+   "stack_id": "workload-migration-sample",
+   "type": "stack",
+   "categories": [
+     "Database"
+   ],
+   "is_certified": false,
+   "has_support": true,
+   "has_dataset": false,
+   "has_api": false,
+   "git_url": "https://github.com/operator-playground-io/Workload-Migration-Sample-tile.git",
+   "git_commit": "d97ea3eb1d7b6a40fce45b259019fcaf36474bd0",
+   "installTime": "5 minutes",
+   "isStacksSaved": true
+ }

@@ -1,0 +1,40 @@
+{
+  "name": "Workload Migration Sample",
+  "description": "Workload Migration Sample",
+  "logo": "_images/mariadb-logo-3.png",
+  "has_supporting_content": true,
+  "stack_id": "workload-migration-sample",
+  "type": "stack",
+  "categories": ["Database"],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "meta": {
+    "Database": ["MariaDB"],
+    "Type":[
+         "Operators"
+      ],
+    "Install time": ["5 minutes"],
+    "Categories": [
+      "Database"
+    ]
+  },
+"deployment_information": {
+  "Operator Project": "N/A",
+  "Deployment Namespace": "my-workload-migration-sample"
+},
+  "commands": [
+    
+    {
+      "description": "Install Operator",
+      "exec": "kubectl create -f https://operatorhub.io/install/mariadb-operator-app.yaml"
+    }
+
+],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}
