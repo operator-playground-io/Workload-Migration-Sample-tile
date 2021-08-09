@@ -1,5 +1,9 @@
 <h1 align="center">Workload Migration</h1> 
 
+This lab guides you through the step by step process of migrating your Amazon RDS workloads to IBM Cloud leveraging opensource technologies deployable on kubernetes as helm-charts or operators.
+
+The process is explained using MariaDB Operator as example.
+
 ### Workload Migration from AWS (Lock In) to Open Technology based IBM Cloud (No Lock-in) :  
 <p>&nbsp;</p>  
 
