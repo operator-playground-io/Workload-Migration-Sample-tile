@@ -18,7 +18,7 @@ The process is explained using MariaDB Operator as example.
 
  
 
-<h1 align="center">Mariadb Operator</h1> 
+<h2 align="center">Background on Mariadb Operator</h2> 
 
 ![Logo](_images/logo.PNG)
 
